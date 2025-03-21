@@ -1,4 +1,5 @@
 ## This fork enables hybrid VIA/OpenRGB support for all RGB wireless Keychron keyboards (Pro, Max)
+## This fork implements my own custom keymaps for the q5_max, use at your own discretion
 ### Not yet thoroughly tested, so use at your own risk, back up your layouts and be prepared for recovery just in case. 
 
 Recommended guide: https://docs.qmk.fm/newbs
