@@ -1,4 +1,4 @@
 CompileFlags:
   Add: [-Wno-unknown-attributes, -Wno-maybe-uninitialized, -Wno-unknown-warning-option]
-  Remove: [-W*, -mcall-prologues]
-  Compiler: clang
+  Remove: [-W*, -mcall-prologues, -mno-thumb-interwork]
+  Compiler: arm-none-eabi-gcc
