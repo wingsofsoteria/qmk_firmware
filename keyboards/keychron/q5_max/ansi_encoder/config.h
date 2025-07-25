@@ -15,6 +15,7 @@
  */
 
 #pragma once
+#        define DYNAMIC_KEYMAP_LAYER_COUNT 5
 
 #ifdef RGB_MATRIX_ENABLE
 /* RGB Matrix driver configuration */
@@ -52,3 +53,7 @@
 #    define RGB_MATRIX_FRAMEBUFFER_EFFECTS
 
 #endif
+
+#define MK_3_SPEED 1
+#define MK_C_OFFSET_1 1
+#define MK_C_INTERVAL_1 32
